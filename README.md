@@ -14,4 +14,4 @@ Last and final term 4 deliverable we had to submit individual contributions on h
 
 🛠 Learning occured through practice of coursework, research, youtube videos and through peer group discussions and this was quite the experience!
 
-!
+![](PROGRESS WOK'.png)
