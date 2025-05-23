@@ -7,4 +7,6 @@ We were tasked design (and improve) network typology which is suitable across al
 
 For term 1 we had to deliver a scope of roles and responsibilities as to who will contribute to which unit and this had to be submitted along with our student names in a pdf document 
 > **Please note all documents are uploaded and not in readme**
-
+Second term we had to design a topology suiteable for these campuses and is attached in files under heading, "TOPOLOGY". What we used is a 3 tier higherarchical model (access layer, distribution layer and core layer) in order for our multilayer 3 switches to work across all campuses. Layer 3 switches share the same function as Layer 2 router which means L3 switches are responsible for routing and switching. When designing this we used a suitable addressing scheme to accomodate all units (routers, switches, access points etc) as shown in the ip addressing scheme file.
+For term 3 we designed the network using packet tracer, our network toplogy, ip addressing schemes and commands on each unit I will attach a link for basic commands to view them on each component please refer to network functionality in files and download packet tracer apk for viewing.
+Last and final
