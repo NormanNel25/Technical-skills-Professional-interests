@@ -21,4 +21,5 @@ Key lessons learned:
 - Accountablility and Responsibility
 - Time management and Problem Solving 
 
+Kindly see additional
 ![](PROGRESSWOK'.png)
